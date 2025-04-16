@@ -64,6 +64,20 @@
 
 ---
 
+## 🚀 Projects
+
+### 📘 BlogScape 📝  
+A full-stack blogging platform built with the **MERN** stack, offering smooth content management and modern web features.  
+🔗 [Live Site](https://blog-space-blond.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp;📂 [GitHub Repo](https://github.com/devanshgupta08/BlogScape)
+
+---
+
+### ♻️ Bin2Bite  
+Connects people with excess food to those in need using **live location** and a **radius filter** to find nearby donors.  
+🔗 [Live Site](https://hungry-three.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp;📂 [GitHub Repo](https://github.com/devanshgupta08/Hungry)
+
+---
+
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devanshgupta08&show_icons=true&locale=en" alt="Devansh's GitHub Stats" />
