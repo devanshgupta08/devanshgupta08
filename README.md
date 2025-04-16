@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Devansh Gupta</h1>
 <h3 align="center">MERN Stack Developer| C/C++ Programmer | LeetCode Knight| 600+ DSA Problems Solved | CodeChef 3★</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshgupta08" alt="devanshgupta08" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js,TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-lilac-ten-82.vercel.app](https://portfolio-lilac-ten-82.vercel.app)
+- 👨‍💻 All of my projects are available  [Here](https://portfolio-lilac-ten-82.vercel.app)
 
 - 💬 Ask me about **React.js,Node.js,Express.js,MongoDB,Mongoose,SQL,C++,DSA**
 
 - 📫 How to reach me **devansh00gupta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I8Xfl5KNAOHzb900Xu74o-xhJkVoWDhR/view](https://drive.google.com/file/d/1I8Xfl5KNAOHzb900Xu74o-xhJkVoWDhR/view)
+- 📄 Know about my experiences [Know about my experiences](https://drive.google.com/file/d/1I8Xfl5KNAOHzb900Xu74o-xhJkVoWDhR/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
