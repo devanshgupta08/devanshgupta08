@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshgupta08&show_icons=true&locale=en" alt="devanshgupta08" /></p>
 <h3 align="left">Leetcode Profile</h3>
-![](https://leetcard.jacoblin.cool/devansh00gupta?ext=contest)
+![Leetcode Profile](https://leetcard.jacoblin.cool/devansh00gupta?ext=contest)
